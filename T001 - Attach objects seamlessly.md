@@ -3,7 +3,7 @@
 ### Introduction
 
 This Tutorial will show you how to create your own mesh stickers and put them on anything you want!
-
+![Thumbnail](https://raw.githubusercontent.com/rcv4/tutorials/master/t001/thumbnail.png?raw=true)
 
 
 ### 1. Align the object to the origin.
@@ -14,7 +14,7 @@ This Tutorial will show you how to create your own mesh stickers and put them on
 
 2. Move the whole object on the `Z Axis` so the lowest point will match with the origin point.
 
-   ![Image of urmom](https://github.com/rcv4/tutorials/blob/master/t001/t001_align_origin.gif?raw=true)
+   ![Object Align Image](https://github.com/rcv4/tutorials/blob/master/t001/t001_align_origin.gif?raw=true)
 
    
 
