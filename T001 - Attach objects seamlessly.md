@@ -37,11 +37,12 @@ This Tutorial will show you how to create your own mesh stickers and put them on
 1. Select the outer loop (4th) of the extruded sticker area
 2. Press `CTRL + G` to create a new vertex group
 3. Go to the `Vertex Groups` Panel in the `Object Data Properties` Tab
-4. Set the weight to `0.800` and click assign
-5. Now select the 2nd loop and change the weight to `0.600`
-6. Click assign.
-7. Now select the 1rst loop and change the weight to `0.400`
-8. Now select the next loop, set the weight to `0.200` and click assign
+4. Select the 3rd loop.
+5. Set the weight to `0.800` and click assign
+6. Now select the 2nd loop and change the weight to `0.600`
+7. Click assign.
+8. Now select the 1rst loop and change the weight to `0.400`
+9. Now select the next loop, set the weight to `0.200` and click assign
 
 
 
